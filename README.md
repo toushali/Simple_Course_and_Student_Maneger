@@ -53,7 +53,3 @@ The UI runs at `http://localhost:5173` and talks to the backend on port 3000.
 | Database | PostgreSQL 15+ |
 | Backend | Node.js, Express, pg, express-validator, dotenv |
 | Frontend | React 18, Vite, React Router v6, plain CSS |
-
-## AI Assistance Disclosure
-
-Both assignments were completed with guidance from Claude (Anthropic). Prompts are preserved in each subfolder's README.
